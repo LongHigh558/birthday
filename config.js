@@ -10,7 +10,7 @@ var config = {
         "我爱你爱着你",
         "就像老鼠爱大米",
         "你是我的玫瑰你是我的花",
-        "今你是我的爱人",
+        "你是我的爱人",
         "是我的牵挂",
         "哇吼哇吼",
         "喵喵喵~~",
@@ -37,6 +37,6 @@ var config = {
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "哎呀真麻烦",
-        story: "PaPaPa FOR YOU",
+        story: "敢不敢再按一次",
     }
 };
